@@ -30,17 +30,6 @@ Why not star this repo? It will surely motivate and push me to innovate for more
   
 ## Let Be Friends
 
-  1. [Twitter]
-  2.  [Facebook]
-  3.  [Linkedin]
-  
-  
-  
-  
-  [Twitter]: https://twitter.com/kijacode
-  [Facebook]: https://www.facebook.com/danford.kija
-  [Linkedin]: https://www.linkedin.com/in/danford-kija-03b261112/?msgConversationId=6577261668651405312&msgOverlay=true
- 
 
  
  
